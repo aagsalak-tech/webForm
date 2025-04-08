@@ -1,7 +1,7 @@
 # webForm
 To run the test:
 
-Clone repository from 
+Clone repository
 
 Launch intelliJ
 Open TestRunner located at src/test/java/runners/TestRunner
